@@ -1,0 +1,26 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+.node {
+  font: 10px sans-serif;
+}
+.node text {
+  cursor: zoom-in;
+}
+.zoomIn {
+  cursor: zoom-out;
+}
+.zoomIn text {
+  cursor: pointer;
+}
+.node circle {
+  fill: #fff;
+  stroke: steelblue;
+  stroke-width: .5px;
+}
+.link {
+  fill: none;
+  stroke: #aaa;
+  stroke-width: .5px;
+}

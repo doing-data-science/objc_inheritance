@@ -1,0 +1,1 @@
+# Nsobject inheritance topology

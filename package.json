@@ -1,0 +1,16 @@
+{
+  "name": "objc_inheritance",
+  "version": "1.0.0",
+  "description": "Nsobject inheritance topology",
+  "scripts": {
+    "build": "node ./scripts/build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xudafeng/objc_inheritance.git"
+  },
+  "keywords": [
+    "objc"
+  ],
+  "author": "xudafeng"
+}
