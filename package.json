@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "Nsobject inheritance topology",
   "scripts": {
-    "build": "node ./scripts/build.js"
+    "build": "node ./scripts/build.js",
+    "contributor": "git-contributor"
   },
   "repository": {
     "type": "git",
@@ -12,5 +13,8 @@
   "keywords": [
     "objc"
   ],
-  "author": "xudafeng"
+  "author": "xudafeng",
+  "devDependencies": {
+    "git-contributor": "^1.0.8"
+  }
 }
